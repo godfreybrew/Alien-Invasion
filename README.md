@@ -22,7 +22,7 @@ pip install pygame
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/godfrey-bn/alien_invasion.git
+git clone https://github.com/godfreybrew/alien_invasion.git
 cd alien_invasion
 ```
 
